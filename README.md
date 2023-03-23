@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<h3 align="left">Languages and Tools:</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghernandez0044)](https://git.io/streak-stats)

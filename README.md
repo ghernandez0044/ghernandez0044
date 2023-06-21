@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghernandez0044&label=Profile%20views&color=0e75b6&style=flat" alt="ghernandez0044" /> </p>
 
-<img align="right" src="https://profile-counter.glitch.me/ghernandez0044/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ghernandez0044/count.svg?"  />
+</div>
+
 
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghernandez0044&theme=dracula&no-frame=false&no-bg=false&margin-w=4)

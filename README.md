@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghernandez0044&label=Profile%20views&color=0e75b6&style=flat" alt="ghernandez0044" /> </p>
 
+<img src="https://raw.githubusercontent.com/ghernandez0044/ghernandez0044/output/snake.svg" alt="Snake animation" />
+
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghernandez0044&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 

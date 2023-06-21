@@ -25,6 +25,7 @@
 ## Support
 <p><a href="https://www.buymeacoffee.com/ghernandez0044"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ghernandez0044" /></a></p><br><br>
 
+## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghernandez0044&show_icons=true&locale=en&layout=compact" alt="ghernandez0044" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghernandez0044&show_icons=true&locale=en" alt="ghernandez0044" /></p>

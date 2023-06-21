@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghernandez0044&label=Profile%20views&color=0e75b6&style=flat" alt="ghernandez0044" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghernandez0044" alt="ghernandez0044" /></a> </p>
-
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghernandez0044&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 

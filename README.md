@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/ghernandez0044/count.svg?"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/ghernandez0044/ghernandez0044/output/snake.svg" alt="Snake animation" />
+
 
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghernandez0044&theme=dracula&no-frame=false&no-bg=false&margin-w=4)

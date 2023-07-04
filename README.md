@@ -8,9 +8,9 @@
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghernandez0044&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [InfintyX](https://github.com/ghernandez0044/infinityx-capstone)
+- 🔭 I’m currently working on [InfintyX](https://github.com/ghernandez0044/infinityx-capstone), [SpotsBnb](https://github.com/ghernandez0044/spotsbnb)
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://guillermo-hernandez.netlify.app/](https://guillermo-hernandez.netlify.app/)
 

@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [InfintyX](https://github.com/ghernandez0044/infinityx-capstone), [SpotsBnb](https://github.com/ghernandez0044/spotsbnb)
 
-- 🌱 I’m currently learning **Tailwind CSS, TypeScript**
+- 🌱 I’m currently learning **Tailwind CSS, TypeScript, Java, Swift**
 
 - 👨‍💻 All of my projects are available at [https://guillermo-hernandez.netlify.app/](https://guillermo-hernandez.netlify.app/)
 
